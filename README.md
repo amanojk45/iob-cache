@@ -16,7 +16,7 @@ IOb-SoC provides helpful information to set up your environment, please refer to
 
 ## Cloning the repository
 ```
-git clone --recursive git@github.com:IObundle/iob-cache.git
+git clone --recursive git@github.com:amanojk45/iob-cache.git
 ```
 
 ## Configuration
